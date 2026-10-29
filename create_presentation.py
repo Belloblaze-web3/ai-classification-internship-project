@@ -210,7 +210,7 @@ box(s, 0.78, 4.05, 5.6, 1.55, RGBColor(21, 51, 82), RGBColor(21, 51, 82), True)
 text(s, 1.1, 4.35, 4.7, 0.25, "NEXT PRODUCTION STEPS", 11, ORANGE, True)
 bullet_list(s, 1.1, 4.8, 4.7, ["Cross-validation and experiment tracking", "API deployment and monitoring", "Data drift and model governance"], 14, RGBColor(220, 230, 240), 0.38)
 text(s, 8.2, 4.25, 3.7, 0.4, "Thank you", 29, WHITE, True, PP_ALIGN.CENTER)
-text(s, 8.15, 4.95, 3.8, 0.5, "Muhammad Bello Abdussalam\nAI Engineer", 16, TEAL, True, PP_ALIGN.CENTER)
+text(s, 8.15, 4.95, 3.8, 0.5, "By Muhammad Bello Abdussalam\nAI Engineer", 16, TEAL, True, PP_ALIGN.CENTER)
 text(s, 12.05, 7.12, 0.65, 0.2, "08 / 08", 9, RGBColor(170, 195, 215), True, PP_ALIGN.RIGHT)
 
 prs.save(OUT)
